@@ -10119,8 +10119,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = (() => {
   let body = document.body;
   window.addEventListener(`load`, function () {
-   body.classList.add(`loaded`);
- });
+    body.classList.add(`loaded`);
+  });
 });
 
 
