@@ -1747,18 +1747,7 @@ img {
   display: block;
   padding: 1rem 0;
   width: 10rem;
-  color: #ffffff;
-  opacity: 0;
-  -webkit-transform: translateX(-10px);
-  -moz-transform: translateX(-10px);
-  -ms-transform: translateX(-10px);
-  -o-transform: translateX(-10px);
-  transform: translateX(-10px);
-  -webkit-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -moz-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -ms-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -o-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97); }
+  color: #ffffff; }
   .page-header__logo:hover {
     opacity: 0.8; }
   .page-header__logo:focus {
@@ -1804,18 +1793,7 @@ img {
   font-size: 0;
   background-color: #ffffff;
   border-radius: 50%;
-  z-index: 1;
-  opacity: 0;
-  -webkit-transform: translateX(10px);
-  -moz-transform: translateX(10px);
-  -ms-transform: translateX(10px);
-  -o-transform: translateX(10px);
-  transform: translateX(10px);
-  -webkit-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -moz-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -ms-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -o-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97); }
+  z-index: 1; }
   .page-header__toggler:focus {
     outline: none; }
   @media (max-width: 1024px) and (orientation: portrait) {
@@ -1889,18 +1867,7 @@ img {
   font-weight: 400;
   font-size: 1.2rem;
   line-height: 1.0418;
-  color: #ffffff;
-  opacity: 0;
-  -webkit-transform: translateX(10px);
-  -moz-transform: translateX(10px);
-  -ms-transform: translateX(10px);
-  -o-transform: translateX(10px);
-  transform: translateX(10px);
-  -webkit-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -moz-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -ms-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -o-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97); }
+  color: #ffffff; }
   @media (min-width: 2000px) {
     .page-header__menu {
       font-size: 12px; } }
@@ -2002,18 +1969,7 @@ img {
         left: 0; }
 
 .page-header__social {
-  margin-left: 4.8rem;
-  opacity: 0;
-  -webkit-transform: translateX(10px);
-  -moz-transform: translateX(10px);
-  -ms-transform: translateX(10px);
-  -o-transform: translateX(10px);
-  transform: translateX(10px);
-  -webkit-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -moz-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -ms-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -o-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97); }
+  margin-left: 4.8rem; }
   @media (min-width: 2000px) {
     .page-header__social {
       margin-left: 48px; } }
@@ -2025,22 +1981,6 @@ img {
     .page-header__social {
       margin-left: 0;
       width: 100%; } }
-
-.loaded .page-header__toggler {
-  opacity: 1;
-  -webkit-transform: translateY(0);
-  -moz-transform: translateY(0);
-  -ms-transform: translateY(0);
-  -o-transform: translateY(0);
-  transform: translateY(0); }
-
-.loaded .page-header__logo, .loaded .page-header__menu, .loaded .page-header__social {
-  opacity: 1;
-  -webkit-transform: translateX(0);
-  -moz-transform: translateX(0);
-  -ms-transform: translateX(0);
-  -o-transform: translateX(0);
-  transform: translateX(0); }
 
 .prizes {
   flex-grow: 1;
@@ -2752,18 +2692,7 @@ img {
   right: 0;
   color: #5f458c;
   background-color: #ffffff;
-  z-index: 1;
-  opacity: 0;
-  -webkit-transform: translateY(100%);
-  -moz-transform: translateY(100%);
-  -ms-transform: translateY(100%);
-  -o-transform: translateY(100%);
-  transform: translateY(100%);
-  -webkit-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -moz-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -ms-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  -o-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
-  transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97); }
+  z-index: 1; }
   @media (max-width: 1024px) and (orientation: portrait) {
     .screen__footer {
       width: 3.5rem;
@@ -2780,14 +2709,6 @@ img {
       .screen__footer.screen__footer--full {
         width: 100%;
         height: 16rem; } }
-
-.loaded .screen__footer {
-  -webkit-transform: translateY(0);
-  -moz-transform: translateY(0);
-  -ms-transform: translateY(0);
-  -o-transform: translateY(0);
-  transform: translateY(0);
-  opacity: 1; }
 
 .screen__footer-wrapper {
   margin: 0 auto;
