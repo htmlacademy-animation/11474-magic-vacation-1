@@ -2919,13 +2919,6 @@ img {
       background-size: auto calc(100vh - 13.8rem), 100% 25rem;
       background-position: top center, bottom center; } }
 
-.screen--prizes.active .screen__bg {
-  height: 100%;
-  -webkit-animation: heightTop 0.7s;
-  -moz-animation: heightTop 0.7s;
-  -o-animation: heightTop 0.7s;
-  animation: heightTop 0.7s; }
-
 .screen--game {
   position: relative;
   background-color: #5f458c; }
@@ -2984,6 +2977,12 @@ img {
   right: 0;
   z-index: 1;
   background-color: #5f458c; }
+  .screen__bg.active {
+    height: 100%;
+    -webkit-animation: heightTop 0.7s;
+    -moz-animation: heightTop 0.7s;
+    -o-animation: heightTop 0.7s;
+    animation: heightTop 0.7s; }
 
 .slider {
   position: relative;
