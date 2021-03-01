@@ -912,7 +912,7 @@ button.swiper-pagination-bullet {
   -o-transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97);
   transition: all 0.7s cubic-bezier(0.32, 0.98, 0.66, 0.97); }
 
-@media (mim-width: 1024px) {
+@media (min-width: 1024px) {
   .loaded .animationx-rl, .loaded .animationx-lr, .loaded .animationy-bt {
     opacity: 1;
     -webkit-transform: translate(0);
